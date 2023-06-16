@@ -47,6 +47,8 @@ API url : `https://backendjustchat.darkmash.repl.co`<br>
 
 Uses `GET` :
 
+**/find/\<room name\>**
+- Get API Url of the room in return
 
 **/get/<int:page>/<int:results_per_page>** 
 - Get the rooms
