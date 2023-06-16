@@ -81,6 +81,9 @@ Uses `POST` :
 
 <hr>
 
+### Note
+- Right now, if you wanna take your room down you have to join our discord and request for removal 
+
 ##### Discord server
 Join our discord server to talk about the <br>
 project and for giving us suggestions. <br>
