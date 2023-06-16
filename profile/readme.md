@@ -25,9 +25,17 @@ Requirements  - python3 , pip3/pip , git, ngrok account (default option is use n
 ```sh
 git clone https://github.com/Justct/Chatroom.git
 ```
-
 ```sh
 cd Chatroom
+```
+
+If on **replit** use this instead :
+
+```sh
+git clone https://github.com/Justct/Chatroom-replit.git
+```
+```sh
+cd Chatroom-replit
 ```
 
 ```sh
