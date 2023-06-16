@@ -15,11 +15,12 @@ Note :  Only one person with a      <br>
 username can join a specific room.    <br>
 <br>
 <br>
-*Official API Url* : `https://backendjustchat.darkmash.repl.co`
+<i>Official API Url</i> : `https://backendjustchat.darkmash.repl.co`
 
 #### How to -  Host a chatroom ?
-Requirements  - python3 , pip3/pip , git
+Requirements  - python3 , pip3/pip , git, ngrok account (default option is use ngrok)
 
+**Note : Set up ngrok + configure it first!** https://ngrok.com/  
 
 ```sh
 git clone https://github.com/Justct/Chatroom.git
@@ -39,4 +40,39 @@ python main.py
 ```
 
 #### How to -  Use the offical API ?
+
+API url : `https://backendjustchat.darkmash.repl.co`<br>
+
+Uses `GET` :
+
+
+***/get/<int:page>/<int:results_per_page>** 
+- Get the rooms
+- Returns : JSON List of rooms + details
+- Example return : 
+  \[
+  {"name":"chat room 1", "description": ".....", "api_url": "https://......"}
+  \]
+  
+
+***/search/<string:search_query>** 
+- Search for rooms- 
+- Returns : JSON List of rooms + details
+- Example return : 
+  \[
+  {"name":"chat room 1", "description": ".....", "api_url": "https://......"}
+  \]
+
+
+
+Uses `POST` :
+
+***/new** 
+- Creates A new chat room
+- Headers should contain valid `name` and `api_url` and `description`
+- Returns -  
+   - "n" if the api url not working
+   - "x" if a room with same name exists
+   - "s" if it was a success
+
 
