@@ -21,7 +21,7 @@ username can join a specific room.    <br>
 Requirements  - python3 , pip3/pip , git, ngrok account (default option is use ngrok)
 
 **Note : Set up ngrok + configure it first!** https://ngrok.com/  
-
+**Note : If hosting on replit use something like uptimebot to keep it alive**
 ```sh
 git clone https://github.com/Justct/Chatroom.git
 ```
