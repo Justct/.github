@@ -46,7 +46,7 @@ API url : `https://backendjustchat.darkmash.repl.co`<br>
 Uses `GET` :
 
 
-***/get/<int:page>/<int:results_per_page>** 
+**/get/<int:page>/<int:results_per_page>** 
 - Get the rooms
 - Returns : JSON List of rooms + details
 - Example return : 
@@ -55,7 +55,7 @@ Uses `GET` :
   \]
   
 
-***/search/<string:search_query>** 
+**/search/<string:search_query>** 
 - Search for rooms- 
 - Returns : JSON List of rooms + details
 - Example return : 
@@ -67,7 +67,7 @@ Uses `GET` :
 
 Uses `POST` :
 
-***/new** 
+**/new** 
 - Creates A new chat room
 - Headers should contain valid `name` and `api_url` and `description`
 - Returns -  
