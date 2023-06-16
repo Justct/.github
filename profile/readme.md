@@ -80,6 +80,6 @@ Uses `POST` :
 ##### Discord server
 Join our discord server to talk about the <br>
 project and for giving us suggestions. <br>
-(**Join Server**)[https://discord.gg/SC54bSgnyQ]
+<a href="https://discord.gg/SC54bSgnyQ">Join Server</a>
 
-Project owned and managed by (*darkmash-org*)[https://darkmash-org.github.io/]
+Project owned and managed by <a href= "https://darkmash-org.github.io/" >darkmash-org</a>
