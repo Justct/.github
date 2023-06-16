@@ -75,4 +75,11 @@ Uses `POST` :
    - "x" if a room with same name exists
    - "s" if it was a success
 
+<hr>
 
+##### Discord server
+Join our discord server to talk about the <br>
+project and for giving us suggestions. <br>
+[https://discord.gg/SC54bSgnyQ](**Join Server**)
+
+Project owned and managed by [https://darkmash-org.github.io/](*darkmash-org*)
