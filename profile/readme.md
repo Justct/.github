@@ -32,10 +32,10 @@ cd Chatroom
 If on **replit** use this instead :
 
 ```sh
-git clone https://github.com/Justct/Chatroom-replit.git
+git clone https://github.com/Justct/Chatroom-replit.git && sed -i 's|entrypoint = "main.py"|entrypoint = "Chatroom-replit/main.py"|' .replit
 ```
 ```sh
-cd Chatroom-replit
+cd Chatroom-replit 
 ```
 
 ```sh
