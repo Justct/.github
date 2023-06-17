@@ -14,6 +14,10 @@ It only provides you a temp username, <br>
 Note :  Only one person with a      <br>
 username can join a specific room.    <br>
 <br>
+And only 3 people can join from the  <br>
+same IP at a time, on to the same  <br>
+chat room.
+<br>
 <br>
 <i>Official API Url</i> : `https://backendjustchat.darkmash.repl.co`
 
