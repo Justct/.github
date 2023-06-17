@@ -42,7 +42,7 @@ cd Chatroom-replit
 pip install -r requirements.txt
 ```
 
-Use python/python3 to run the Chatroom
+Use python/python3 to run the Chatroom, If on replit use the 'run' button!
 ```sh
 python main.py
 ```
