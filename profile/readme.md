@@ -1,5 +1,8 @@
 ## Just Chat 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=darkmash-org&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
+
+
 A simple open source site hosted via github pages  <br>
 And via random people contributing a chat room .<br>
 Here you can talk to random people with common <br>
