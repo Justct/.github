@@ -57,7 +57,7 @@ After doing this register your Room here : https://justct.github.io/creation.htm
 
 #### How to -  Use the offical API ?
 
-API url : `https://backendjustchat.darkmash.repl.co`<br>
+API url : `https://justct.pythonanywhere.com/`<br>
 
 Uses `GET` :
 
